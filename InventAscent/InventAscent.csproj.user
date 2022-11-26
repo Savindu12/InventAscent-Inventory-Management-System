@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ADashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="itemdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="priceDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updateCate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updateItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdatePrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userProfileDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userviewDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

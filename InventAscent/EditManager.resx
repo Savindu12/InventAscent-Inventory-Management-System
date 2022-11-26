@@ -1,0 +1,77 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAX
+        2AAAF9gB5vnQRAAAAjlJREFUWEft2M2rTVEYx/Hj/a3EgJSREQYG/gFmBjISUkpEzDBQjLxGMZSJMJA/
+        QTEmmZgYMVDEjIQBJe/fL3uxOj1n733OuWuf6P7q01137bX285x7797n7NubgqzDZTzBp4pj5zw2sczF
+        JXzDjwE85pp56DQ2dwdRUxHXzkFnuYCokToX0UlW4QuiJup8hnuL5zSiBto4g+K5i6h4G/dQPM8QFW/j
+        OYrnKaLibbi3eG4jKt6Gt5viOYyoeBtHUDxL8Q5RA3Xc495Osg9RE3Xc02nOI2ok4tqJZBdeIWpKHnPN
+        RLMQu3ED3sTl2DmPTeefywx4u5j567u/OY6blWNOZHHtErh3yrMCB3AVD/AWXgAnkTIbH5Eujg/IX8AJ
+        OP8G93EF+zHWfXEWTsFnjFQ45xt//hM5inTMcYprXJvvTd7jIEbKdUQnzW1Eii/oJV5U45QNiPbmzmKo
+        7ER0on7XkMdf4evfwz/xTyPam/uOzWidx4hO1M9f0XyYRbCQFjhRfXVNtLffI7TKWkQnGGQHzBqkOcfG
+        Y/naJqvRmG2INg9yC2YT0pxj47F8bZPtaMweRJsH8WltGVbia8Xxcgz79GftxuxFtLnOIRg/MadPzc5F
+        a+tYuzGjNPgQZkvFOBetrVOsQa9cL66UYS+0pFiDyj+UnkO0pknRBn0H8f1XjqM1TYo2KK/CYe8CueIN
+        jmu6wXH9Hw1uRbS5C9ZuzGLUPeuWYk1rt8p6+Pwxyr96h2UNa1mzL73eT7Ay6y+6E6OjAAAAAElFTkSu
+        QmCC
+</value>
+  </data>
+</root>
